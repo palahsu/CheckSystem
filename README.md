@@ -4,6 +4,7 @@
 # Support
 - Windows 7, 8, 10
 - Linux
+- Unix
 
 # Feature
 - Get Full diagnostics tool
