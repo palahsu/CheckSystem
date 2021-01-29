@@ -7,7 +7,7 @@
 - Unix
 
 # Feature
-- Get Full diagnostics info
+- Get Full Diagnostics Info
 - Get Full Computer Information
 - Get Full Hardware Information
 - Report Save on Text File
