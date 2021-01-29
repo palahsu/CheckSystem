@@ -10,6 +10,7 @@
 - Get Full Diagnostics Info
 - Get Full Computer Information
 - Get Full Hardware Information
+- Get Full Network Information
 - Report Save on Text File
 
 Just Download & Run.
