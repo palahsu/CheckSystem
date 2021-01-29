@@ -1,5 +1,5 @@
 # CheckSystem
-⚙ Checks and Shows Full System Information Report! Get Your Full Computer Information! (No more need commands)
+⚙ Checks and Shows Full System Information Report! Get Your Full Computer/Hardware Information! (No more need commands)
 
 # Support
 - Windows 7, 8, 10
